@@ -1,0 +1,37 @@
+
+.bg-gradient-primary {
+    background: linear-gradient(135deg, #ff9ad5, #8a4fff) !important;
+}
+
+
+.login-card {
+    max-width: 420px;
+    border-radius: 1rem;
+    background: white;
+}
+
+
+.card-summary {
+    border-radius: 0.75rem;
+}
+
+
+table td, table th {
+    vertical-align: middle;
+}
+
+
+.card {
+    border-radius: 0.75rem;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+}
+
+
+.login-card a {
+    color: #ff5ac8 !important;
+    font-weight: 600;
+    text-decoration: none;
+}
+.login-card a:hover {
+    color: #a020f0 !important;
+}
